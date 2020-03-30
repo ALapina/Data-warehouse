@@ -559,9 +559,9 @@ ul{
 /* FOOTER */
 /* FOOTER */
 
-.footer{
+/*.footer{
     /* background-color: chartreuse; */
-}
+/*}*/
 
 .footer-callout{
     display: flex;
@@ -647,9 +647,9 @@ ul{
     color: #212353;
 }
 
-.footer-content__social-media{
+/*.footer-content__social-media{
     /* flex: 1; */
-}
+/*}*/
 
 .footer-content__titles{
     font-weight: 800;
